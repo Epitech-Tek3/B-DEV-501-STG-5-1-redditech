@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_menu_camera.xml" value="0.2515625" />
+        <entry key="app/src/main/res/drawable/ic_reddit_background.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/drawable/ic_setting.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/drawable/item_bg.xml" value="0.2515625" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/activity_news.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/activity_popular2.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/app_bar_main2.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/content_main2.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/fragment_default_list.xml" value="0.16485507246376813" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.16485507246376813" />
+        <entry key="app/src/main/res/layout/fragment_message.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/fragment_my_profile.xml" value="0.1585144927536232" />
+        <entry key="app/src/main/res/layout/fragment_news.xml" value="0.16485507246376813" />
+        <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/fragment_popular.xml" value="0.16485507246376813" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.19934143870314083" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.1947463768115942" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.17090066016338354" />
+        <entry key="app/src/main/res/layout/linear_item_row.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/linear_item_rowPopular.xml" value="0.15217391304347827" />
+        <entry key="app/src/main/res/layout/linear_item_row_default_list.xml" value="0.15217391304347827" />
+        <entry key="app/src/main/res/layout/linear_item_row_news.xml" value="0.15217391304347827" />
+        <entry key="app/src/main/res/layout/linear_item_row_popular.xml" value="0.15217391304347827" />
+        <entry key="app/src/main/res/layout/nav_header_main2.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/progress_loading.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/layout/rv_child_number.xml" value="0.20643363728470113" />
+        <entry key="app/src/main/res/menu/activity_main2_drawer.xml" value="0.234375" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.234375" />
+        <entry key="app/src/main/res/menu/filter_menu.xml" value="0.234375" />
+        <entry key="app/src/main/res/menu/main2.xml" value="0.234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
